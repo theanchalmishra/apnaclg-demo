@@ -1,2 +1,2 @@
 # apnaclg-demo
-this is demo repository
+This is a demo repository
